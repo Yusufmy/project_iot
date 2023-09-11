@@ -32,7 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
               child: Image.asset('assets/images/camink.png'),
             ),
             Text(
-              "Camink Parking",
+              "Camink Parkink",
               style: GoogleFonts.hammersmithOne(),
             )
           ],
